@@ -4,6 +4,6 @@
 
 ## Техника безопасности
 
-1. Быстро сохранить и добавть
+1. Варианты быстро сохранить и добавть
 - git commit -a -m "First example"
 - git commit -am "Second example"
